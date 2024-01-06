@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhen Zhang's Homepage, Dalian University of Technologya"
+title                    : "Zhen Zhang's Homepage, Dalian University of Technology"
 description              : 
 repository               : "j-dut/j-dut.github.io"
 google_scholar_stats_use_cdn : true
@@ -29,6 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vBSJplMAAAAJ"
   email            : "zhen.zhang@dlut.edu.cn"
+  email            : "ZhenZhang_CN@ieee.org"
   researchgate     : "https://www.researchgate.net/profile/Zhen-Zhang-21"
   uri              :
   bitbucket        :
