@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhen Zhang's Homepage, Dalian University of Technology"
+title                    : "Zhen Zhang's Homepage, Dalian University of Technologya"
 description              : 
 repository               : "j-dut/j-dut.github.io"
 google_scholar_stats_use_cdn : true
@@ -25,7 +25,7 @@ author:
   avatar           : "images/zzupc-2.png"
   bio              : "Professor in Management Science and Decision Analysis"
   location         : "Dalian, P. R. China"
-  employer         :
+  employer         : "DAlian University of Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vBSJplMAAAAJ"
   email            : "zhen.zhang@dlut.edu.cn"
