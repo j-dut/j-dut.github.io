@@ -30,7 +30,7 @@ Dr. Zhang servers as an associate editor of Group Decision and Negotiation (SSCI
 \|
 <a href='https://scholar.google.com/citations?user=vBSJplMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=h-index"></a>
 \|
-<a href='https://scholar.google.com/citations?user=vBSJplMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_i10 | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=i10-index"><
+<a href='https://scholar.google.com/citations?user=vBSJplMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_i10 | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=i10-index"></a>
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
